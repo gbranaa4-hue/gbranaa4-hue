@@ -10,6 +10,7 @@ I build things, measure them honestly, and write down the negative results too.
 
 **Ternary & neuromorphic computing**
 - **[012-trit-search](https://github.com/gbranaa4-hue/012-trit-search)** — ternary-computing research, and its shipping product **OBSERVE**: local, private semantic code search (desktop GUI / CLI / MCP server) with a one-line install. Nothing leaves your machine.
+- **[methodlm](https://github.com/gbranaa4-hue/methodlm)** — a verifiable causal-reasoning harness: pre-registers every test, runs real backdoor adjustment (with a robustness value), and keeps an honest ledger so any LLM must *prove* its causal claims. Optional ternary second witness via the same `tritkit` readout as OBSERVE.
 - **[Spikeling](https://github.com/gbranaa4-hue/Spikeling)** — a DSL + runtime for spiking neural networks that runs the *same* `.spk` brain on Python, C, Verilog, and Godot backends. Ships a Godot game-AI plugin.
 
 **Phononic / MEMS reservoir computing**
